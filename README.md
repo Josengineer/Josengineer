@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Josengineer
+- 👋 Hi, I’m Jose
 - 👀 I’m interested in Computer science related things 
 - 🌱 I’m currently learning Python, C++ and other solutions 
 - 💞️ I’m looking to collaborate on the community and do some projects 
